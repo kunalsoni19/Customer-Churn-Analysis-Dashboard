@@ -46,7 +46,7 @@ The dashboard uncovers **customer churn patterns** and helps decision-makers cre
 ## Dashboard Snapshot
 Here’s a preview of the Tableau Dashboard:  
 
-![Customer Churn Dashboard]([https://link-to-your-image-file.com](https://github.com/kunalsoni19/Customer-Churn-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png))  
+![Customer Churn Dashboard](https://github.com/kunalsoni19/Customer-Churn-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
 ---
 
