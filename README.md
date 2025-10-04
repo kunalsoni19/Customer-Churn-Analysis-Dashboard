@@ -27,11 +27,11 @@ The dashboard uncovers **customer churn patterns** and helps decision-makers cre
 ---
 
 ## Features / Highlights
-- ✅ **Overall churn rate = 26.54%**  
-- ✅ **Highest churn in month-to-month contracts = 42.71%**  
-- ✅ **Senior Citizens & single customers (no partners/dependents) = 41.68% churn risk**  
-- ✅ **Early tenure + high monthly charges → strong churn driver**  
-- ✅ Designed to let **business leaders drill into churn by demographics, contracts, and billing structure**  
+- **Overall churn rate = 26.54%**  
+- **Highest churn in month-to-month contracts = 42.71%**  
+- **Senior Citizens & single customers (no partners/dependents) = 41.68% churn risk**  
+- **Early tenure + high monthly charges → strong churn driver**  
+- Designed to let **business leaders drill into churn by demographics, contracts, and billing structure**  
 
 ---
 
