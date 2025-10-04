@@ -58,6 +58,6 @@ Here’s a preview of the Tableau Dashboard:
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn Link]  
-- Email: [Your Email Address]  
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/kunalsoniii/
+- Email: kunalsonicareer@gmail.com 
