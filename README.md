@@ -50,7 +50,7 @@ Here’s a preview of the Tableau Dashboard:
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 - Tableau  
 - Data Visualization  
 - Customer Analytics  
